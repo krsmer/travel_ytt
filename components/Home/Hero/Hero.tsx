@@ -24,7 +24,7 @@ const Hero = () => {
                     <h1 className='text-[25px] mb-4 md:mb-0 text-center md:text-[35px] lg:text-[45px] tracking-[0.7rem] text-white fony-bold uppercase'>
                         Lets Enjoy The Nature
                     </h1>
-                    <p className='md:text-base text-center text-lg text-white font-normal [word-spacing:5px]'> Süreç ilerledikçe buraya geri dönüşler yapılacak ve eksik kısımlar doldurulacak, Sonnet 3.7'den dikkat çekici yazı ayarlanacak , BÖTE'den Yavuz Gardaşıma selam</p>
+                    <p className='md:text-base text-center text-lg text-white font-normal [word-spacing:5px]'> Süreç ilerledikçe buraya geri dönüşler yapılacak ve eksik kısımlar doldurulacak, Sonnet 3.7'den dikkat çekici yazı ayarlanacak</p>
                 </div>
                 {/* Search Box */}
               <SearchBox />

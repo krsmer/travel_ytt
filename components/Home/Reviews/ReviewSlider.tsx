@@ -31,7 +31,7 @@ const ReviewSlider = () => {
                             <FaStar className='md:w-6 md:h-6 w-3 h-3 text-yellow-600'/>
                             <FaStar className='md:w-6 md:h-6 w-3 h-3 text-yellow-600'/>
                             <FaStar className='md:w-6 md:h-6 w-3 h-3 text-yellow-600'/>
-                            <FaStar className='md:w-6 md:h-6 w-3 h-3 text-yellow-600'/>                           
+                            <FaStar className='md:w-6 md:h-6 w-3 h-3 text-gray-600'/>                           
                         </div>
                         {/*Users Profile*/}
                         <div className='mt-10'>
