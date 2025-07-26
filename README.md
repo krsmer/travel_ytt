@@ -20,7 +20,7 @@ It aims to help users discover exciting travel destinations and plan their trips
 - [**Tailwind CSS**](https://tailwindcss.com/) – Utility-first CSS framework for styling  
 - [**JavaScript**](https://www.javascript.com/) – For additional logic and interactivity  
 
-> 🧑‍💻 **Note:** This project currently includes only the frontend implementation. There is no backend or API integration at this stage.
+> 🧑‍💻 **Note:** This project currently includes only the frontend implementation. There is no backend or API integration at this stage It will be added.
 
 ---
 
